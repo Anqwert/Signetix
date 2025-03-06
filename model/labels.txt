@@ -1,0 +1,10 @@
+0 Call
+1 Good Bye
+2 Good Luck
+3 Hello
+4 Losers
+5 Ok
+6 Silent
+7 Sorry
+8 Stop
+9 Victory
