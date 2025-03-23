@@ -8,3 +8,13 @@
 7 Sorry
 8 Stop
 9 Victory
+10 Bathroom
+11 Dislike
+12 Heart
+13 I Love You
+14 Like
+15 Protest
+16 Punch
+17 Relax
+18 Rock
+19 Water
